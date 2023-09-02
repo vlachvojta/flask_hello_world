@@ -5,7 +5,7 @@ Servers only one purpose... to be of hello world
 
 ## How I made it
 
-First I created a simple Flask app and tested it locally using this [tutorial]()
+First I created a simple Flask app and tested it locally using this [tutorial](https://youtu.be/GHvj1ivQ7ms)
 For deployment I followed the tutorial [here](https://youtu.be/6p7GBfHgJq8).
 To create basic mannual connection with github I followed this [tutorial](https://youtu.be/4sTZN15J33A).
 
