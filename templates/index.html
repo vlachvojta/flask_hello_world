@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask demo app</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}" type="text/css" />
+</head>
+<body>
+    <h1>Hellooo</h1>
+    <p>To whom this may concern... please appreciate this fine looking demonstration application...</p>
+    <p>Here is funny gif to ease your time...</p>
+    <img src="{{ url_for('static', filename='img/loading.gif') }}" alt="Funny GIF to make your day better.">
+</body>
+</html>
