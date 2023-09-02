@@ -19,5 +19,12 @@ Tasks for me are.
   
 **Note for reader: If you have any information or tips regarding these steps, don't hesitate to reach out to me via Github Issues or Pull Requests**
 
+## HowTo update live page:
+- Develop some changes and test locally.
+- Push to GitHub
+- on pythonanywhere start new console using 'New Console: BASH' button on this [website](https://www.pythonanywhere.com/user/vlachvojta/).
+- in the console navigate to git repository
+- Run: git pull
+- **Click reload** on the config page for one defualt [webiste](https://www.pythonanywhere.com/user/vlachvojta/webapps/#tab_id_vlachvojta_pythonanywhere_com)
 
 
